@@ -27,6 +27,7 @@
 📍 Barcelona · 📞 695 966 523 · 📧 elisamfarrus@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-elisamfarrus--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elisamfarrus-cpu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli%20Mirallas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-mirallas/)
 [![Gmail](https://img.shields.io/badge/Gmail-elisamfarrus@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisamfarrus@gmail.com)
 
 </div>
