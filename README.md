@@ -47,7 +47,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Herramientas & Metodología
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-6E4B8A?style=for-the-badge&logo=azuresdevops&logoColor=white)
 
