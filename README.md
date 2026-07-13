@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ✨ Elisa Mirallas ✨
+# ✨ Eli Mirallas ✨
 
 ### 🚀 *Desarrolladora Fullstack Freelance & Soluciones Web a Medida*
 
@@ -182,6 +182,6 @@
 
 ---
 
-*Hecho con ❤️ y mucho ☕ por **Elisa Mirallas***
+*Hecho con ❤️ y mucho ☕ por **Eli Mirallas***
 
 </div>
