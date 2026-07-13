@@ -34,6 +34,18 @@
 
 ---
 
+## 🧭 *Hacia dónde voy*
+ 
+> Trabajo como freelance diseñando e implementando soluciones web a medida, de principio a fin, sin sorpresas de plazo, presupuesto ni nervios.
+>
+> Donde realmente quiero poner mi energía es en **proyectos con impacto social**: entidades y fundaciones que hacen un trabajo importante pero que muchas veces no tienen quien les resuelva la parte digital con el mismo cuidado que tendría una gran empresa.
+>
+> No es casualidad: me formé gracias a la **Fundación ONCE** y trabajé en **Fundació Trinijove**, así que sé lo que se juegan estos proyectos — y quiero devolver algo de eso con lo que sé hacer ahora.
+>
+> Si conoces alguna organización así, o crees que esto le puede interesar a alguien, **hablemos**.
+ 
+---
+
 ## 💻 *Mi Stack Tecnológico*
 
 <div align="center">
